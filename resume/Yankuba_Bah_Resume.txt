@@ -1,0 +1,86 @@
+YANKUBA BAH
+Saint Louis, MO | yankubabah99@gmail.com
+LinkedIn: www.linkedin.com/in/yankuba-bah-543a90351
+Cybersecurity Portfolio
+
+PROFESSIONAL SUMMARY
+Cybersecurity Analyst | Information Security | Security Operations
+
+Cybersecurity professional transitioning from five years of experience in a highly regulated, compliance-driven transportation environment into information security. Currently pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University. Holds CompTIA A+, Network+, and Security+ certifications, along with ITIL Foundation and the Google Cybersecurity Professional Certificate. Hands-on experience with Splunk, Wireshark, Linux, Windows, SQL, Tcpdump, Suricata, Python, and Regex through structured cybersecurity labs and projects. Knowledge of network security, security operations, vulnerability assessment, log analysis, incident response, IAM fundamentals, risk assessment, security controls, and compliance. Strong documentation, problem-solving, adaptability, and attention to detail, with experience operating effectively under strict regulatory requirements and pressure.
+
+CORE SKILLS
+Security Operations: Threat Detection, Log Analysis, Incident Response, Security Monitoring, SIEM, Network Security
+Risk and Compliance: Risk Assessment, Vulnerability Assessment, Security Controls, Security Frameworks, Compliance Documentation, Control Awareness, IT Service Management
+Identity and Access Management: IAM Fundamentals, Authentication, Authorization, Access Controls, Least Privilege
+Networking and Systems: TCP/IP, DNS, HTTP/HTTPS, ARP, Windows, Linux, File Systems, Firewalls, Network Traffic Analysis
+Tools and Technologies: Splunk, Wireshark, Tcpdump, Suricata, SQL, Python, Regex, Linux CLI, Windows
+Professional Strengths: Problem-Solving, Attention to Detail, Documentation, Collaboration, Adaptability, Calm Under Pressure, Time Management, Regulatory Compliance
+
+CERTIFICATIONS
+CompTIA Network+ - CompTIA | August 2026
+CompTIA A+ - CompTIA | July 2026
+ITIL Foundation - 2026
+CompTIA Security+ - CompTIA | July 2025
+Google Cybersecurity Professional Certificate - Merit America | March 2025
+
+EDUCATION
+Bachelor of Science in Cybersecurity and Information Assurance
+Western Governors University - Virtual
+Expected September 2027
+Relevant Studies: Cybersecurity, Network Security, Information Technology, Ethics in Technology, AI Essentials, Linux, Cloud Security, Vulnerability Management, Systems and Infrastructure, Security Operations
+
+CYBERSECURITY PROJECTS AND HANDS-ON EXPERIENCE
+TryHackMe Cybersecurity Labs
+Completed hands-on cybersecurity exercises covering Linux, Windows, networking, log analysis, security monitoring, digital forensics, and incident handling.
+
+Linux Fundamentals and Linux Strength Training
+- Navigated Linux directories and file systems using the command line.
+- Worked with file permissions, common Linux utilities, and system administration concepts.
+- Analyzed system and security-related logs to identify relevant activity.
+
+Log Analysis
+- Identified common log types and locations used during security investigations.
+- Applied command-line tools and regular expressions to search and interpret log data.
+- Developed foundational skills in recognizing suspicious activity through log analysis.
+
+Wireshark Basics and Wireshark 101
+- Captured and analyzed network traffic using packet dissection and filtering techniques.
+- Examined ARP, ICMP, TCP, DNS, HTTP, and HTTPS traffic.
+- Applied packet-analysis concepts to network troubleshooting and security investigations.
+
+Windows Fundamentals and Windows Forensics
+- Investigated Windows file systems, user account controls, security settings, firewalls, system configuration, and registry concepts.
+- Worked with FAT and NTFS file systems and Windows registry artifacts.
+- Practiced forensic techniques including registry analysis and file recovery.
+
+Splunk and Security Operations
+- Navigated Splunk for security monitoring and log analysis.
+- Practiced incident-handling workflows using Splunk.
+- Participated in Boss of the SOC investigations to analyze security events and identify potential threats.
+- Developed foundational SIEM skills applicable to SOC and security analyst environments.
+
+PROFESSIONAL EXPERIENCE
+Professional Development and Cybersecurity Career Transition
+St. Louis, MO | March 2026 - Present
+- Pursuing a B.S. in Cybersecurity and Information Assurance while completing industry-recognized cybersecurity certifications and hands-on technical training.
+- Built practical knowledge across network security, threat analysis, vulnerability assessment, IAM, security controls, risk management, and incident response.
+- Developed hands-on familiarity with Splunk, Wireshark, Suricata, Tcpdump, Linux, Windows, SQL, Python, and Regex.
+- Applied structured cybersecurity learning through hands-on labs involving security monitoring, network traffic analysis, log analysis, Windows forensics, and incident handling.
+- Maintained disciplined self-directed technical development while balancing education and independent-contract employment.
+- Demonstrated strong time management, adaptability, self-discipline, documentation, and commitment to professional development.
+
+Truck Driver
+Legacy Express Trucking Inc. and IMC Logistics | St. Louis, MO / Texas | February 2020 - March 2026
+- Maintained accurate electronic records and operational documentation to support compliance with DOT regulations and transportation safety requirements.
+- Consistently operated within strict regulatory and safety requirements while managing time-sensitive regional and long-haul operations.
+- Maintained a 98% on-time delivery rate while adapting to changing conditions, unexpected delays, and operational risks.
+- Conducted detailed pre-trip and post-trip inspections to identify potential mechanical and safety issues before they affected operations.
+- Reduced fuel consumption by approximately 10% per trip through route optimization and operational planning.
+- Demonstrated calm decision-making and problem-solving in high-pressure environments where safety, compliance, documentation, and operational continuity were critical.
+- Maintained accountability for company assets, cargo, documentation, schedules, and regulatory requirements throughout transportation operations.
+
+TECHNICAL SKILLS
+Operating Systems: Linux, Windows
+Security and Network Tools: Splunk, Wireshark, Tcpdump, Suricata
+Languages and Query: Python, SQL, Regex
+Collaboration: Google Workspace, Slack, Zoom
