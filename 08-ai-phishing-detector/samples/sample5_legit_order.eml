@@ -1,0 +1,21 @@
+From: "Riverside Books" <orders@riversidebooks.example>
+Reply-To: orders@riversidebooks.example
+Return-Path: <bounce@riversidebooks.example>
+To: yankuba@example.com
+Subject: Your order #55231 has shipped
+Date: Fri, 24 Oct 2026 15:30:00 -0500
+Message-ID: <20261024153000.33410@riversidebooks.example>
+Authentication-Results: riversidebooks.example; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hi Yankuba,
+
+Good news — your order #55231 has shipped. Your delivery arrives tomorrow between 9am and 12pm.
+
+Track your package here:
+https://riversidebooks.example/track/55231
+
+Here is your receipt for your recent purchase. Thank you for shopping with Riverside Books.
+
+Riverside Books

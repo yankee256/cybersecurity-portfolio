@@ -1,0 +1,30 @@
+From: "Billing Department" <billing@invoicedocs-download.xyz>
+Reply-To: billing@invoicedocs-download.xyz
+Return-Path: <bounce@invoicedocs-download.xyz>
+To: yankuba@example.com
+Subject: Overdue invoice #88412 - immediate action required
+Date: Tue, 21 Oct 2026 08:02:00 -0500
+Message-ID: <20261021080200.99120@invoicedocs-download.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY42"
+
+--BOUNDARY42
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+Your payment is overdue. Invoice #88412 must be paid immediately or your service will be suspended.
+
+Download the attached invoice now and confirm your payment details using the link below:
+http://bit.ly/3xK9mQ2
+
+This is your final notice. Act now to avoid late fees.
+
+Billing Department
+--BOUNDARY42
+Content-Type: application/zip; name="Invoice_88412.zip"
+Content-Disposition: attachment; filename="Invoice_88412.zip"
+Content-Transfer-Encoding: base64
+
+U1lOVEhFVElDIFNBTVBMRSAtIG5vdCBhIHJlYWwgZmlsZS4=
+--BOUNDARY42--

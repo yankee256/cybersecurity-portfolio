@@ -1,0 +1,18 @@
+From: "Bluebird Coffee" <hello@bluebirdcoffee.example>
+Reply-To: hello@bluebirdcoffee.example
+Return-Path: <bounce@bluebirdcoffee.example>
+To: yankuba@example.com
+Subject: October newsletter: our new seasonal blend is here
+Date: Thu, 23 Oct 2026 10:00:00 -0500
+Message-ID: <20261023100000.77701@bluebirdcoffee.example>
+Authentication-Results: bluebirdcoffee.example; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Hi Yankuba,</p>
+<p>Thanks for subscribing to our monthly newsletter. Our new seasonal blend is now available in stores, and subscribers get 10% off this week.</p>
+<p><a href="https://bluebirdcoffee.example/seasonal-blend">See the new blend</a></p>
+<p>You can unsubscribe at any time: <a href="https://bluebirdcoffee.example/unsubscribe">unsubscribe here</a>.</p>
+<p>See you soon,<br>The Bluebird Coffee Team</p>
+</body></html>

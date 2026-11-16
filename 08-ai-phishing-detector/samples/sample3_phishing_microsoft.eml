@@ -1,0 +1,19 @@
+From: "Microsoft 365" <security@micros0ft365-alert.com>
+Reply-To: security@micros0ft365-alert.com
+Return-Path: <bounce@micros0ft365-alert.com>
+To: yankuba@example.com
+Subject: Your password expires today - action required
+Date: Wed, 22 Oct 2026 07:47:00 -0500
+Message-ID: <20261022074700.55110@micros0ft365-alert.com>
+Authentication-Results: micros0ft365-alert.com; spf=fail; dkim=fail; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear User,</p>
+<p>Your Microsoft 365 password expires today. If you do not reset your password now, you will lose access to your email and files.</p>
+<p><a href="http://micros0ft365-alert.com/reset-password">Click here to keep your password</a></p>
+<p>Or copy this link: http://micros0ft365-alert.com/reset-password</p>
+<p>Please verify your login credentials on the page to confirm it is really you.</p>
+<p>Microsoft 365 Security Team</p>
+</body></html>

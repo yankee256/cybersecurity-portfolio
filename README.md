@@ -21,6 +21,7 @@ Aspiring cybersecurity professional building hands-on, demonstrable skills in se
 | 4 | [Vulnerability Assessment & Hardening](04-vulnerability-assessment-hardening/) | Nmap, vulnerability scanning, Linux/Windows hardening | Finding, prioritising, remediating, and re-checking issues |
 | 5 | [Incident Response Playbook](05-incident-response-playbook/) | Incident response process, documentation | Phishing, malware, and unauthorised access response |
 | 6 | [GRC Risk Assessment](06-grc-risk-assessment/) | Risk assessment, NIST, compliance mapping | Risk, controls, compliance, and remediation planning — see also [cybersecurity-GRC-portfolio](https://github.com/yankee256/cybersecurity-GRC-portfolio) |
+| 8 | [AI Phishing Detector](08-ai-phishing-detector/) | Python (standard library only), email forensics, Naive Bayes | Header/SPF/DKIM/DMARC analysis, lookalike-domain and link checks, from-scratch text classifier — tested 3/3 phishing caught, 2/2 legit clean on synthetic samples |
 
 ## Skills
 
